@@ -22,3 +22,15 @@ second, run the project in dev server with command
 - Prettier
 - Tailwind
 - Shadcn
+
+
+### Install new components of Shadcn
+
+You need acess website [Shadcn](https://ui.shadcn.com/docs/cli) and choose the component you will use.
+the command to install
+
+```
+  npx shadcn-ui@latest add [component]
+```
+
+After installing your component, it is located at @/components/ui
