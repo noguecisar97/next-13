@@ -18,10 +18,12 @@ module.exports = {
   rules: {
     // Suas regras personalizadas, se houver.
     'react/react-in-jsx-scope': 'off',
+    'no-undef': 'off',
   },
   settings: {
     react: {
       version: 'detect',
     },
   },
+  ignorePatterns: ['node_modules/', 'src/components/ui/'],
 };
