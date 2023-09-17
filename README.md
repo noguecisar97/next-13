@@ -1,4 +1,4 @@
-# This is my project base with Next 13 with eslint and prettier
+# This is my project base Next 13 
 > i am using vscode for coding
 
 ### Getting Started
